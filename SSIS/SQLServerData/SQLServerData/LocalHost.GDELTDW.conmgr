@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.GDELTDW"
+  DTS:DTSID="{F0EE7E5E-654A-49D3-9502-71331C14DBE4}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=WIN-6DT9K8GA14U;Initial Catalog=GDELTDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;database=GDELTDW;trusted_connection=True;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
